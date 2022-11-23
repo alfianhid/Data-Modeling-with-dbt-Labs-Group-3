@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: application_record
+    tables:
+      - name: applicant_credit_final
+        identifier: applicant_credit_final
